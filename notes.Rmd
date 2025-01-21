@@ -1,0 +1,14 @@
+---
+title: "notes"
+output: html_document
+date: "2025-01-21"
+---
+
+##Cloning Repos
+
+1. creating a repo in github webpage 
+2. to clone in your local computer you can either :
+  clone in command line/terminal
+  create a new project and add the url
+you can push changes through the Git tab as well
+you can also clone other people repos onto your local machine
