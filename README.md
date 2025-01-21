@@ -1,1 +1,1 @@
-# excersize-2a
+# exercise-2a
